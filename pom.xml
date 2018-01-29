@@ -14,7 +14,7 @@
             <roles>
                 <role>Java Developer</role>
             </roles>
-            <timezone>-6:00</timezone>
+            <timezone></timezone>
         </developer>
     </developers>
     <properties>
